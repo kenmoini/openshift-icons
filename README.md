@@ -17,7 +17,7 @@ extensions:
   properties: {}
   scriptURLs: []
   stylesheetURLs:
-    — https://raw.githubusercontent.com/kenmoini/openshift-icons/master/styles.css
+    — https://your.site/linking-to/styles.css
 ```
 
 **Kill the pods**
